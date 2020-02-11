@@ -19,6 +19,7 @@ What's main factors advocating microservices -
 * Network failures are inevitable. More components, moving parts means more possible points of failure
 * Always more expensive than monolith system - need more hardware and development resources
 * More complex technology
+* Code duplication unlike monoliths for reuse
 
 
 ## Main considerations while identifying prospective microservices
